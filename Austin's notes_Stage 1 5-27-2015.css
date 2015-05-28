@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(70,130,180);
+  font-family: arial; 
+}
+
+h1 {
+  padding:6px;
+  text-align:center;
+}
+
+h2 {
+  padding:15px;
+  max-width: 600px;
+}
+
+.topradius {
+  border-top-width:6px;
+  border-top-right-radius:15px;
+  border-top-left-radius:15px;
+}
+
+.bottomradius {
+  border-bottom-width:6px;
+  border-bottom-right-radius:15px;
+  border-bottom-left-radius:15px;
+}
+
+.note {
+  padding:15px;
+  background-color: #777777;
+  border-style: solid;
+  border-right-width: 6px;
+  border-color:#cdc9c9;
+  border-left-width: 6px;
+}
